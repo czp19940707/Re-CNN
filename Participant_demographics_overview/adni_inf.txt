@@ -1,0 +1,10 @@
+dataset: adni
+group: AD
+age_min_ad: 55.0 age_max_ad: 91.0
+subject nums: 351 male rate: 192 female rate: 159
+age mean: 75.68091168091168 std: 7.960418840407009
+
+group: CN
+age_min_ad: 56.0 age_max_ad: 95.0
+subject nums: 415 male: 206 female: 209
+age mean: 76.19518072289156 std: 6.333919086271596

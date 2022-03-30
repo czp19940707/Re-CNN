@@ -1,0 +1,10 @@
+dataset: aibl
+group: AD
+age_min_ad: 55.0 age_max_ad: 93.0
+subject nums: 70 male rate: 27 female rate: 43
+age mean: 72.7 std: 7.941482409295059
+
+group: CN
+age_min_ad: 60.0 age_max_ad: 92.0
+subject nums: 284 male: 128 female: 156
+age mean: 72.49122807017544 std: 6.508086217248653
