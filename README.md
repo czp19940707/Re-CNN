@@ -1,6 +1,6 @@
 # Re_CNN_master
 A Reparametrized CNN Model to Distinguish Alzheimer's Disease Applying Multiple Morphological Metrics and Deep Semantic Features from Structural MRI.
-![image](https://github.com/czp19940707/Re_CNN_master/blob/main/Re-CNN.png)
+![image](https://github.com/czp19940707/Re_CNN/blob/main/Re-CNN.png)
 # DATASET
 The data_path should look like:
 
